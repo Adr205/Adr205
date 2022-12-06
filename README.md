@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Adrian 👋 🖥
 
 ```js
 const adr205 = {
@@ -10,6 +10,13 @@ const adr205 = {
   servers: [Digital Ocean]
 }
 ```
+
+You can find me : 
+- [Portfolio](https://adrianvilla.xyz)
+- [Personal Instagram](https://www.instagram.com/adrianleon205)
+- [Photography Instagram](https://www.instagram.com/ethereal_delusion)
+
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adr205)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 <!--
