@@ -3,7 +3,7 @@
 ```js
 const adr205 = {
   code: [Javascript, Typescript, HTML, CSS, C++, Python, Swift, MatLab],
-  tools: [Angular, Ionic, NodeJS, NestJS, GraphQL, TailWindCSS, React, VUE, Firebase, 
+  tools: [Angular, Ionic, NodeJS, NestJS, GraphQL, TailWindCSS, React, Vue, Firebase, 
             Blender, Davinci Resolve, Adobe Premiere],
   databases: [MongoDB, GoogleCloud, Firestore],
   cms: [Sanity],
