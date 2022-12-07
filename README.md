@@ -5,16 +5,14 @@
 
 ```js
 const adr205 = {
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Swift, MatLab],
-  tools: [Angular, Ionic, NodeJS, NestJS, GraphQL, TailWindCSS, React, Vue, Firebase, 
-            Blender, Davinci Resolve, Adobe Premiere],
-  databases: [MongoDB, GoogleCloud, Firestore],
-  cms: [Sanity],
-  servers: [Digital Ocean]
+   name: "Adrian Villa",
+   location: "Mexico",
+   main_stack: [Angular/Ionic, Mongo, NodeJS/NestJS, TailwindCSS],
+   hobbies: ["Programming", "Learning new skills", "Listening Music", "Reading books"]
 }
 ```
 
-- 🌱 I’m currently learning **React, NestJS, NgRx, Sanity, TailwindCSS**
+- 🌱 I’m currently learning **React, NestJS, NgRx, Sanity, Socket IO**
 
 - 👨‍💻 All of my projects are available at [https://adrianvilla.xyz](https://adrianvilla.xyz)
 
