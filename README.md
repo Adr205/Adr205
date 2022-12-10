@@ -35,7 +35,7 @@ const adr205 = {
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Adr205/HTMCode"><b>React PullToRefresh component</b></a></td>
+      <td><a href="https://github.com/Adr205/HTMCode"><b>HTMCODE</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/adr205/HTMCODE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/adr205/HTMCODE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/adr205/HTMCODE?style=flat-square&labelColor=343b41"/></td>
