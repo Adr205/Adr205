@@ -41,15 +41,14 @@ const adr205 = {
       <td><img alt="Issues" src="https://img.shields.io/github/issues/adr205/HTMCODE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adr205/HTMCODE?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>		  
-      <td><a href="https://github.com/Adr205/modeladoPiramides"><b>ThreeJS Pyramid Modeling</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
+	<tr>		  
+      	<td><a href="https://github.com/Adr205/modeladoPiramides"><b>ThreeJS Pyramid Modeling</b></a></td>
+      	<td><img alt="Stars" src="https://img.shields.io/github/stars/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
+      	<td><img alt="Forks" src="https://img.shields.io/github/forks/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
+      	<td><img alt="Issues" src="https://img.shields.io/github/issues/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
+      	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adr205/modeladoPiramides?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-
       <td><a href="https://github.com/Adr205/web-dev-project"><b>React Video Games Reviews Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Adr205/web-dev-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Adr205/web-dev-project?style=flat-square&labelColor=343b41"/></td>
