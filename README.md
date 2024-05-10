@@ -7,7 +7,7 @@
 const adr205 = {
    name: "Adrian Villa",
    location: "Mexico",
-   main_stack: [[Angular, Ionic], Mongo, [NodeJS, NestJS], TailwindCSS],
+   main_stack: [[Angular, Ionic, NextJS], Mongo, [NodeJS, NestJS], TailwindCSS],
    hobbies: ["Programming", "Learning new skills", "Listening Music", "Reading books"]
 }
 ```
