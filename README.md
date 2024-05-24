@@ -77,3 +77,10 @@ const adr205 = {
 [![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adr205&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adr205&" alt="adr205" /></p>
+
+
+[![Adrian's github stats Deco Digital](https://github-readme-stats.vercel.app/api?username=jvilla-deco&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jvilla-deco&" alt="jvilla-deco" /></p>
+
+
